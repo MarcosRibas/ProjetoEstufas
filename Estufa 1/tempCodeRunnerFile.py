@@ -1,0 +1,1 @@
+client.publish(f'v1/{usuario}/things/{client_id}/data/0', 'temp,c={temp}')
